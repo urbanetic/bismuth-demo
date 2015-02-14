@@ -11,5 +11,5 @@ less
 standard-app-packages
 underscore
 
-#urbanetic:bismuth-schema
 aramk:utility
+urbanetic:bismuth-schema
