@@ -12,5 +12,8 @@ setTimeout(
   2000
 )
 
-Depends.on 'Entities', (Entities) =>
-  console.log('Entities', Entities?)
+console.log('Entities', Entities?)
+console.log('Projects', Projects?)
+
+# Depends.on 'Entities', (Entities) =>
+#   console.log('Entities', Entities?)
